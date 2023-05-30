@@ -9,7 +9,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
-[role="qrcode"] {
+h1 {
   width: min-content;
   background-color: hsl(0, 0%, 100%);
   margin: 100px auto 0;
