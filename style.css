@@ -9,7 +9,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
-.card {
+section {
   width: min-content;
   background-color: hsl(0, 0%, 100%);
   margin: 100px auto 0;
